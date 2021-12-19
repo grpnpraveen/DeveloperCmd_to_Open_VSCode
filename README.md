@@ -1,4 +1,4 @@
-# DeveloperCmd_to_Open_VSCode
+# Open_VSCode_in_DeveloperEnv
 This repo deals with opening VSCode with developer environment(supports cl compiler), which is similar to opening VSCode from Developer Command Prompt.
 
 # NOTE(Works for VisualStudio 2019):
