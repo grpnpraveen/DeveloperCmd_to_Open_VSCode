@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\Dev_Code]
+"icon"="%windir%\\system32\\cmd.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\Dev_Code\command]
+@="C:\\dev.bat"
