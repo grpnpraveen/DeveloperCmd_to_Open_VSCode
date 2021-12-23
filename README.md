@@ -3,3 +3,5 @@ This repo deals with opening VSCode with developer environment <b>(supports cl c
 
 # NOTE(Works for VisualStudio 2019):
   place dev.bat file in C drive or change the path inside reg file to direct to this bat file.
+# Extra-Perks
+ If you want to open git-bash in Developer mode, use Devgitbash.bat
